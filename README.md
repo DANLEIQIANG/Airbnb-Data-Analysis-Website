@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="frontend/static/234.jpeg" alt="Logo" width="190" height="40">
+   
   </a>
 
   <h1 align="center">Airbnb Data Analysis Website</h1>
@@ -130,20 +130,20 @@ The following commands that need to be executed when running locally, first of a
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Project structure introduction
-<img src="frontend/static/7.png" alt="Logo" width="500" height="1100">
+<img src="https://github.com/DANLEIQIANG/Airbnb-Data-Analysis-Website/blob/main/airbnb/frontend/static/7.png" alt="Logo" width="500" height="1100">
 
 
 <!-- USAGE EXAMPLES -->
 ## Screenshots
-<img src="frontend/static/1.png" alt="Logo" width="500" height="300">
+<img src="https://github.com/DANLEIQIANG/Airbnb-Data-Analysis-Website/blob/main/airbnb/frontend/static/1.png" alt="Logo" width="500" height="300">
 <p>Overview</p>
-<img src="frontend/static/2.png" alt="Logo" width="500" height="300">
+<img src="https://github.com/DANLEIQIANG/Airbnb-Data-Analysis-Website/blob/main/airbnb/frontend/static/2.png" alt="Logo" width="500" height="300">
 <p>Tenant</p>
-<img src="frontend/static/3.png" alt="Logo" width="500" height="300">
+<img src="https://github.com/DANLEIQIANG/Airbnb-Data-Analysis-Website/blob/main/airbnb/frontend/static/3.png" alt="Logo" width="500" height="300">
 <p>Landlord</p>
-<img src="frontend/static/4.png" alt="Logo" width="500" height="300">
+<img src="https://github.com/DANLEIQIANG/Airbnb-Data-Analysis-Website/blob/main/airbnb/frontend/static/4.png" alt="Logo" width="500" height="300">
 <p>Investor</p>
-<img src="frontend/static/5.png" alt="Logo" width="500" height="300">
+<img src="https://github.com/DANLEIQIANG/Airbnb-Data-Analysis-Website/blob/main/airbnb/frontend/static/5.png" alt="Logo" width="500" height="300">
 <p>Machine Learning</p>
 
 
