@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1638862314777,"sparkVersion":"3.1.2","uid":"VectorAssembler_ba6fd5dc7bb6","paramMap":{"inputCols":["neighbourhood_cleansed_index","room_type_index","accommodates","bedrooms"],"outputCol":"features"},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_ba6fd5dc7bb6__output"}}
