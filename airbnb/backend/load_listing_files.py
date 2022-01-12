@@ -6,7 +6,7 @@ import os, sys
 from common import url, driver, user, password
 import findspark
 findspark.add_packages('mysql:mysql-connector-java:8.0.20')
-
+#aaa
 def main():
     # main logic starts here
     listings_schema = types.StructType([
